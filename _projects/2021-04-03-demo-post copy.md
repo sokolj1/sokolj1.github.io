@@ -1,11 +1,9 @@
 ---
-title: 'Demo Post'
-date: 2018-06-30 00:00:00
+title: 'LBI Foundation of the Arts & Sciences'
+date: 2021-03-22 00:00:00
 description: Board is a stylish full-width masonry grid theme. Made for designers, artists, photographers and developers to show off their best work.
-featured_image: '/images/demo/blog-01.jpg'
+featured_image: '/images/lbi/lbif_3_22_2021.jpg'
 ---
-
-![](/images/demo/landscape-01.jpg)
 
 ## Demo content
 
