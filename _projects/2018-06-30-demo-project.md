@@ -5,7 +5,7 @@ date: 2018-06-30 00:00:00
 description: Board is a stylish full-width masonry grid theme. Made for designers, artists, photographers and developers to show off their best work.
 ---
 
-![](/images/portraits/Olivia_birthday_1_9_2021.jpg)
+<!--![](/images/portraits/Olivia_birthday_1_9_2021.jpg) -->
 
 ## Demo content
 
