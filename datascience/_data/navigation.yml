@@ -1,0 +1,14 @@
+# main links
+main:
+  # - title: "Quick-Start Guide"
+  #   url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
+  - title: "About"
+    url: /about
+  # - title: "Tags"
+  #  url: /tags/index
+  - title: "Photography"
+    url: /photography
+  #- title: "Super Bowl Dashboard"
+  #  url: /Interactive-Super-Bowl-Tableau-Dashboard/
+  #- title: "Assess Fitness Level"
+  #  url: /Assessment-of-Cardiovascular-Fitness-using-R/
