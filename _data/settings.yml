@@ -15,7 +15,7 @@ menu_settings:
     - title: 'Philadelphia'
       url: '/christmas/'
     - title: 'Data Science'
-      url: '/about'
+      url: '/datascience/'
     - title: 'Contact'
       url: '/contact'
 
