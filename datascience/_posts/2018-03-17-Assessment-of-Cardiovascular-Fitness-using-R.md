@@ -1,5 +1,5 @@
 ---
-published: true
+published: false
 header:
   image: /assets/cardiovasuclar_fitness/assessment_fitness_02.png
 author_profile: true
