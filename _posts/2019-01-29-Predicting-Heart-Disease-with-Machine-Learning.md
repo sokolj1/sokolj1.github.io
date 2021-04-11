@@ -12,7 +12,7 @@ author_profile: false
 toc: true 
 
 excerpt: Machine learning application in the healthcare industry
-
+featured_image: '/images/heart_disease_featured_image.png'
 ---
 
 This study serves as an viable example of data science, specifically machine learning, in the healthcare industry. Using United States heart disease data from the UCI machine learning repository, a Python logistic regression model of 14 features, 375 observations and 78% predictive accuracy, is trained and optimized to assist healthcare professionals predicting the likelihood of confirmed patient heart disease presence. Selection of the fourteen training features was based upon data cleanliness and clinical validity of the feature's contribution to presence of heart disease. 
