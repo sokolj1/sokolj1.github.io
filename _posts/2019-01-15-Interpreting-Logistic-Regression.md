@@ -9,6 +9,7 @@ excerpt: Predicting Titanic passenger survival
 toc: true
 mathjax: true
 published: true
+featured_image: '/images/titanic_featured_image.png'
 ---
 
 With deep learning taking the data science community by storm, people tend to look down at relatively simple machine learning algorithms. Although deep learning can tackle problems that require complex input-output mappings, these deep learning models lack adequate interpretability. Enter logistic regression, which provides interpretable reasoning for the predictive outputs of this type of statistical model. The purpose of this post is to provide an example application of logistic regression and how to interpret the model outcome.
