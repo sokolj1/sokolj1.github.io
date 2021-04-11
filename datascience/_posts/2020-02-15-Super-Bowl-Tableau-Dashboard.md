@@ -9,7 +9,7 @@ toc: false
 classes: wide
 
 excerpt: "Dashboard visualization of Super Bowl XXXIV - LV win probabilities and play descriptions"
-
+featured_image: '/_assets/Super-Bowl-Dashboard/foles.jpg'
 ---
 
 <!-- <img src="/assets/Super-Bowl-Dashboard/foles.jpg" > -->
