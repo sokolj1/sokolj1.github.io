@@ -10,6 +10,7 @@ classes: wide
 
 excerpt: "Dashboard visualization of Super Bowl XXXIV - LV win probabilities and play descriptions"
 featured_image: 'datascience/_assets/Super-Bowl-Dashboard/foles.jpg'
+published: false
 ---
 
 <!-- <img src="/assets/Super-Bowl-Dashboard/foles.jpg" > -->
