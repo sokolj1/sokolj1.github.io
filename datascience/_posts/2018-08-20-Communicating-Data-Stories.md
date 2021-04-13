@@ -7,7 +7,7 @@ author_profile: true
 excerpt: How to use structure and simplicity to convey a compelling data narrative 
 mathjax: true
 toc: true
-published: true
+published: false
 ---
 <!-- header:
   image: /assets/communicating-data-stories/heart_disease_pres_5.1.2018.png
