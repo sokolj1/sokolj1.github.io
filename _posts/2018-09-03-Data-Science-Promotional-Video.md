@@ -7,6 +7,7 @@ author_profile: false
 excerpt: Short video for those interested in the MS Data Science & Strategic Analytics degree
 mathjax: true
 published: true
+featured_image: '/images/official-stockton-logo-display.png'
 ---
 
 Shawn Casler and I created a promotional video using Final Cut Pro for the Data Science & Strategic Analytics program. The one minute video defines the field of data science, shows learned data science skills advancing traditional marine biology, and attests the data science program enables career upward mobility.
