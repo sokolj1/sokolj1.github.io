@@ -9,7 +9,7 @@ wide: true
 excerpt: I currently teach this course. Repository for notes, lecture videos, and assignments
 toc: true
 mathjax: true
-published: true
+published: false
 ---
 
 ## Course Information
