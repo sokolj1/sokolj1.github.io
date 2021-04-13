@@ -10,7 +10,7 @@ tags:
   - healthcare
 author_profile: false
 toc: true 
-
+published: false
 excerpt: Machine learning application in the healthcare industry
 
 ---
