@@ -8,6 +8,8 @@ author_profile: false
 
 classes: wide
 
+published: false
+
 ---
 
 ## Understanding the linearly separable binary classifier from the ground up using R
